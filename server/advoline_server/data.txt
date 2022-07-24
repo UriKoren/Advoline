@@ -1,0 +1,30 @@
+intellectual_Property_Law	a1.txt	I got notice before being sued that says I violated some Copyrights issues of a big watch manufacturer while selling copies of it on my website 
+intellectual_Property_Law	a10.txt	I own a patented device that helps cut a salad in special way and was amazed to see that Italian company is selling the same device (branded on their name) without my permission  
+intellectual_Property_Law	a2.txt	I’m being sued by ‘ACUM’ for playing music in my store without paying their fee although these were free to download 
+intellectual_Property_Law	a3.txt	I’m a professional photographer and I have taken that very special picture of the prime minister on independency day… two days ago I was amazed to see my picture was used in a daily news article... can I sue the news company? 
+intellectual_Property_Law	a4.txt	Im being sued by a famous singer for copying his lyrics in my new song… I was the the one who wrote it …
+intellectual_Property_Law	a5.txt	a famous singer just came out with a new song that uses the same exact tones of my creation   
+intellectual_Property_Law	a6.txt	I have heard on the news of a new company that is developing a technology which was presented by me to them a few months ago while I was seeking for investors… I’m sure they stole my idea … can I sue them?  
+intellectual_Property_Law	a7.txt	I uploaded a parodic clip on my YouTube channel of a famous cartoon show and got sued for unauthorised use of the characters and really don’t know what to do… I had no idea of breaching any law 
+intellectual_Property_Law	a8.txt	We were broadcasting the final primer league game on a TV which stands in our restaurant and FIFA sent me a notice before sue letter which claiming me for breaching some Intellectual Property Laws and I’m nervous 
+intellectual_Property_Law	a9.txt	I’m a lecturer and use many books for coping some for chapters for my students on a daily basis and lately I was sued by a famous researcher who claims I’m breaching his property rights   
+Property_Law	a1.txt	My neighbour doesn't allow me to use one of the common Elevators
+Property_Law	a10.txt	Recently visited my hometown (after 10 years abroad) I surprisingly I have found strangers that took over my commercial property with no permission. Called the police which disappointingly told me I should get a property lawyer.
+Property_Law	a2.txt	My neighbour fence crashed and hit my dog that got injured badly 
+Property_Law	a3.txt	my apartment’s ceiling is leaking, and the neighbour upstairs ignores it and isn’t willing to fix the problem, nor the building committee 
+Property_Law	a4.txt	The building elevator’s us broken and two of our neighbours refuse to participate in the fixing expenses 
+Property_Law	a5.txt	Me and my husband bought our first new apartment two years ago and thew construction work didn’t start yet. The contractor is purposely delaying although the contract says 18 month for delivery 
+Property_Law	a6.txt	My downstairs neighbour illegally enclosed his balcony which caused a decrease in my property value    
+Property_Law	a7.txt	My next-door neighbour is a very heavy smoker and he stands outside his balcony right under my bedroom window causing me to constantly close my window getting no fresh air and making it hard to breath in my own house 
+Property_Law	a8.txt	Just bought a land for investment and my attorney didn’t notice that the seller has a lean and his bank is claiming ownership of the land .. what can I do?
+Property_Law	a9.txt	I just sold my car and I’m still getting parking tickets as if I’m still the owner… contacted the buyer who told he got nothing to do with it … nor the municipality representative 
+Tort_Law	a1.txt	My dog bit my neighbour and I have no insurance...
+Tort_Law	a10.txt	My aunt underwent a surgery and was injured badly because the surgent mistakenly left one the medical tools inside her body 
+Tort_Law	a2.txt	I was walking in the supermarket and slipped off the floor after it was just been cleaned and broke my leg  
+Tort_Law	a3.txt	My three children just loves KINDER EGGES and immediately after the manufacturer announced on that recall, three of them got sick with Salmonella … is there anything to sue about 
+Tort_Law	a4.txt	I was walking in the supermarket and slipped off the floor after it was just been cleaned and broke my leg
+Tort_Law	a5.txt	I was drinking in bar and suddenly the glass exploded in my hand and cut it badly. I had to get to the emergency room where they gave me stitches and since then I cant work   
+Tort_Law	a6.txt	My husband ordered a cup of tea and the waitress served him with a glass had remaining’s of cleaning material which caused him severe internal injury 
+Tort_Law	a7.txt	While fixing an air conditioner in a costumer’s house I fell off my ladder and broke both his very expensive coffee table and my arm 
+Tort_Law	a8.txt	While riding my motorcycle I came across a bump in the road which caused me to fall off my bike and I have been hospitalised (after surgery) since then  
+Tort_Law	a9.txt	My wife was involved in a car accident and the driver who hit her car has insurance nor valid driver’s licence

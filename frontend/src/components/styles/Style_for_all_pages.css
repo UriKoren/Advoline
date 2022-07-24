@@ -1,0 +1,1267 @@
+/*Page 1:*/
+
+
+.page1 {
+
+    /* Layout Properties */
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 360px;
+    height: 740px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 65%, #00007C 0%, #00002E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.welcome1{
+    margin-top: 100px;
+    margin-left: 104px;
+    width: 152px;
+    height: 40px;
+
+
+    text-align: center;
+    font: normal normal normal 33px/28px Lato;
+    letter-spacing: 0.49px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.headline1{
+    /* Layout Properties */
+    margin-top: 50px;
+    margin-left: 34px;
+    width: 292px;
+    height: 23px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 19px/24px Lato;
+    letter-spacing: 0.1px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.textbox1{
+    /* Layout Properties */
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 312px;
+    height: 200px;
+    /* UI Properties */
+    background: #FBFBFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 10px #00002E1D;
+    border-radius: 14px;
+    opacity: 1;
+    font: normal normal 300 16px/20px Lato;
+    letter-spacing: 0.24px;
+    color: blue;
+
+}
+
+.bottomText1{
+    /* Layout Properties */
+    margin-top: 35px;
+    margin-left: 65px;
+    width: 232px;
+    height: 51px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 14px/17px Lato;
+    letter-spacing: 0.21px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+
+.next1{
+    /* Layout Properties */
+    margin-top: 30px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+.send1{
+    /* Layout Properties */
+    margin-top: 30px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.Logo{
+
+    /* Layout Properties */
+    margin-top: 21px;
+    margin-left: 101px;
+    width: 5px;
+    height: 20px;
+    /* UI Properties */
+
+    opacity: 1;
+}
+
+
+/*End Page 1*/
+
+/*Page 2:*/
+
+.page2{
+    /* Layout Properties */
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 740px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 65%, #00007C 0%, #00002E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.main-headline2{
+    /* Layout Properties */
+    margin-top: 100px;
+    margin-left: 119px;
+    width: 122px;
+    height: 29px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 24px/28px Lato;
+    letter-spacing: 0.36px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.headline2{
+    /* Layout Properties */
+    margin-top: 20px;
+    margin-left: 67px;
+    width: 226px;
+    height: 73px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 21px/24px Lato;
+    letter-spacing: 0.32px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.yesButton2{
+    /* Layout Properties */
+    margin-top: 15px;
+    margin-left: 90px;
+    width: 86px;
+    height: 40px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 58% 50%, #FFFFFF 0%, #C7C7DD 100%) 0% 0% no-repeat padding-box;
+    border-radius: 6px 0px 0px 6px;
+
+}
+
+.noButton2{
+    /* Layout Properties */
+    margin-top: 15px;
+    margin-right: 0px;
+    width: 86px;
+    height: 40px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+
+}
+
+.next2{
+    /* Layout Properties */
+    /*margin-bottom: 665px;*/
+    margin-top: 280px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    display: inline-block;
+
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 3px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+.next2:hover{
+    animation: pulsate 1s
+    ease-in-out;
+}
+@keyframes pulsate{
+    0%{
+        box-shadow:
+                0 0 25px #5ddcff,
+                0 0 50px #4e00c2;
+    }
+}
+/*End Page 2*/
+
+/*Page 3:*/
+
+.page3{
+    /* Layout Properties */
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 740px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 65%, #00007C 0%, #00002E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.main-headline3{
+    /* Layout Properties */
+    margin-top: 50px;
+    margin-left: 119px;
+    width: 122px;
+    height: 29px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 24px/28px Lato;
+    letter-spacing: 0.36px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.headline3{
+    /* Layout Properties */
+    margin-top: 20px;
+    margin-left: 60px;
+    width: 226px;
+    height: 73px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 21px/24px Lato;
+    letter-spacing: 0.32px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.policy3{
+    /* Layout Properties */
+    margin-top: 60px;
+    margin-left: 95px;
+    width: 162px;
+    height: 18px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 15px/18px Lato;
+    letter-spacing: 0.23px;
+    color: #C7C7DD;
+    opacity: 1;
+}
+
+.nameBox3{
+    margin-top: 30px;
+    margin-left: 24px;
+    width: 162px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 15px/28px Lato;
+    letter-spacing: 0.23px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.textboxName3{
+    /* Layout Properties */
+    margin-top: 14px;
+    margin-left: 24px;
+    width: 312px;
+    height: 40px;
+    /* UI Properties */
+    background: #FBFBFF 0% 0% no-repeat padding-box;
+    border: 1px solid #6A6A6A;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.emailBox3{
+    /* Layout Properties */
+    top: 408px;
+    margin-left: 24px;
+    width: 131px;
+    height: 18px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 15px/28px Lato;
+    letter-spacing: 0.23px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.textboxEmail3{
+    /* Layout Properties */
+    margin-top: 14px;
+    margin-left: 24px;
+    width: 312px;
+    height: 40px;
+    /* UI Properties */
+    background: #FBFBFF 0% 0% no-repeat padding-box;
+    border: 1px solid #6A6A6A;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.checkbox3{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 239px;
+    height: 39px;
+    /* UI Properties */
+    text-align: left;
+    letter-spacing: 0.21px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.bottomText3{
+    /* Layout Properties */
+    margin-top: 15px;
+    margin-left: 24px;
+    width: 235px;
+    height: 37px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 14px/20px Lato;
+    letter-spacing: 0.21px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.saveButton3{
+    /* Layout Properties */
+    margin-top: 18px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+
+.nextButton3{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+/*End Page 3*/
+
+/*Page 4:*/
+
+.page4{
+    /* Layout Properties */
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 740px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 65%, #00007C 0%, #00002E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.logo4{
+    /* Layout Properties */
+    top: 21px;
+    margin-left: 30px;
+    width: 70px;
+    height: 20px;
+    /* UI Properties */
+
+    opacity: 1;
+}
+
+.arrow4{
+    /* Layout Properties */
+    margin-bottom: 25px;
+    left: 0px;
+    width: 15px;
+    height: 15px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 65%, #00007C 0%, #00002E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.main-headline4{
+    /* Layout Properties */
+    margin-top: 50px;
+    margin-left: 60px;
+    width: 232px;
+    height: 57px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 24px/28px Lato;
+    letter-spacing: 0.36px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.question4{
+    /* Layout Properties */
+    margin-top: 39px;
+    margin-left: 67px;
+    width: 226px;
+    height: 73px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 21px/24px Lato;
+    letter-spacing: 0.32px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.headline4{
+    /* Layout Properties */
+    top: 251px;
+    margin-left: 103px;
+    width: 154px;
+    height: 36px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 15px/18px Lato;
+    letter-spacing: 0.23px;
+    color: #C7C7DD;
+    opacity: 1;
+}
+
+.formText4{
+    margin-top: 14px;
+    top: 322px;
+    margin-left: 24px;
+    width: 162px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 15px/28px Lato;
+    letter-spacing: 0.23px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+
+
+.box4{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 24px;
+    width: 312px;
+    height: 120px;
+    /* UI Properties */
+    background: #00003E 0% 0% no-repeat padding-box;
+    border: 1px solid #6A6A6A;
+    border-radius: 7px;
+    opacity: 1;
+}
+
+.button4{
+    margin-top: 45px;
+    margin-left: 100px;
+    width: 110px;
+    height: 33px;
+
+    /* UI Properties */
+    background: #0F9558 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.upload4{
+    /* Layout Properties */
+    display: none;
+    margin-top: 50px;
+    margin-left: 110px;
+    width: 110px;
+    height: 33px;
+
+    /* UI Properties */
+    /*background: #0F9558 0% 0% no-repeat padding-box;*/
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.bottomText4{
+    /* Layout Properties */
+    top: 553px;
+    margin-left: 24px;
+    width: 235px;
+    height: 37px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 14px/20px Lato;
+    letter-spacing: 0.21px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.submit4{
+    /* Layout Properties */
+    margin-top: 110px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.next4{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+/*End Page 4*/
+
+/*Page 5:*/
+.page5{
+    /* Layout Properties */
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 740px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 65%, #00007C 0%, #00002E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.logo5{
+    /* Layout Properties */
+    top: 21px;
+    margin-left: 30px;
+    width: 70px;
+    height: 20px;
+    /* UI Properties */
+
+    opacity: 1;
+}
+
+.arrow5{
+    /* Layout Properties */
+    margin-bottom: 25px;
+    left: 0px;
+    width: 15px;
+    height: 15px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 65%, #00007C 0%, #00002E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.main-headline5{
+    /* Layout Properties */
+    margin-top: 50px;
+    margin-left: 65px;
+    width: 232px;
+    height: 35px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 24px/28px Lato;
+    letter-spacing: 0.36px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.question5{
+    /* Layout Properties */
+    margin-bottom: 30px;
+    margin-left: 67px;
+    width: 226px;
+    height: 73px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 21px/24px Lato;
+    letter-spacing: 0.32px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.headline5{
+    /* Layout Properties */
+    margin-top: 51px;
+    margin-left: 103px;
+    width: 154px;
+    height: 36px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 15px/18px Lato;
+    letter-spacing: 0.23px;
+    color: #C7C7DD;
+    opacity: 1;
+}
+
+.formText5{
+    margin-top: 14px;
+    top: 322px;
+    margin-left: 24px;
+    width: 162px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 15px/28px Lato;
+    letter-spacing: 0.23px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+
+
+.box5{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 24px;
+    width: 312px;
+    height: 120px;
+    /* UI Properties */
+    background: #00003E 0% 0% no-repeat padding-box;
+    border: 1px solid #6A6A6A;
+    border-radius: 7px;
+    opacity: 1;
+}
+
+.upload5{
+    /* Layout Properties */
+    display: none;
+    margin-top: 50px;
+    margin-left: 110px;
+    width: 110px;
+    height: 33px;
+    overflow: hidden;
+    /* UI Properties */
+    /*background: #0F9558 0% 0% no-repeat padding-box;*/
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.bottomText5{
+    /* Layout Properties */
+    top: 553px;
+    margin-left: 24px;
+    width: 235px;
+    height: 37px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 14px/20px Lato;
+    letter-spacing: 0.21px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.submit5{
+    /* Layout Properties */
+    margin-top: 100px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.next5{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+/*End Page 5*/
+
+/*Page 6:*/
+.page6{
+    /* Layout Properties */
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 740px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 65%, #00007C 0%, #00002E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.main-headline6{
+    /* Layout Properties */
+    margin-top: 80px;
+    margin-left: 110px;
+    width: 122px;
+    height: 29px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 24px/28px Lato;
+    letter-spacing: 0.36px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.question6{
+    /* Layout Properties */
+
+    margin-left: 65px;
+    width: 226px;
+    height: 53px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 21px/24px Lato;
+    letter-spacing: 0.32px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.note6{
+    /* Layout Properties */
+
+    margin-left: 95px;
+    width: 154px;
+    height: 36px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 15px/18px Lato;
+    letter-spacing: 0.23px;
+    color: #C7C7DD;
+    opacity: 1;
+}
+
+.formText6{
+    top: 322px;
+    margin-left: 24px;
+    width: 162px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 15px/28px Lato;
+    letter-spacing: 0.23px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+
+
+.box6{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 312px;
+    height: 120px;
+    /* UI Properties */
+    background: #00003E 0% 0% no-repeat padding-box;
+    border: 1px solid #6A6A6A;
+    border-radius: 7px;
+    opacity: 1;
+}
+
+.upload6{
+    /* Layout Properties */
+    display: none;
+    margin-top: 50px;
+    margin-left: 115px;
+    width: 110px;
+    height: 33px;
+    /* UI Properties */
+    /*background: #0F9558 0% 0% no-repeat padding-box;*/
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.bottomNote6{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 24px;
+    width: 235px;
+    height: 37px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 14px/20px Lato;
+    letter-spacing: 0.21px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.write-it-here6{
+    /* Layout Properties */
+    margin-bottom: 10px;
+    margin-left: 24px;
+    width: 91px;
+    height: 18px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 15px/28px Lato;
+    letter-spacing: 0.23px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.textbox6{
+    /* Layout Properties */
+    top: 539px;
+    margin-left: 20px;
+    width: 312px;
+    height: 100px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #6A6A6A;
+    border-radius: 7px;
+    opacity: 1;
+}
+
+.submit6{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 100px;
+    width: 150px;
+    height: 30px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+
+.next6{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 100px;
+    width: 150px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.bottomText6{
+    /* Layout Properties */
+    top: 718px;
+    margin-left: 24px;
+    width: 312px;
+    height: 51px;
+    /* UI Properties */
+    text-align: center;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+/*End Page 6*/
+
+/*Page 7:*/
+
+
+
+.page7 {
+    /* Layout Properties */
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 740px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 65%, #00007C 0%, #00002E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+
+.main-headline7{
+    /* Layout Properties */
+    margin-top: 80px;
+    margin-left: 96px;
+    width: 168px;
+    height: 29px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 24px/28px Lato;
+    letter-spacing: 0.36px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.headline7{
+    /* Layout Properties */
+    margin-top: 9px;
+    margin-left: 43px;
+    width: 274px;
+    height: 73px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 21px/24px Lato;
+    letter-spacing: 0.32px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.textboxName7{
+    /* Layout Properties */
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 312px;
+    height: 40px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #6A6A6A;
+    border-radius: 6px;
+    opacity: 1;
+
+}
+
+.inText7{
+    top: 358px;
+    left: 44px;
+    width: 123px;
+    height: 17px;
+    text-align: left;
+    font: normal normal normal 14px/28px Lato;
+    letter-spacing: 0.21px;
+    color: grey;
+    opacity: 1;
+}
+
+
+
+.notice7{
+    /* Layout Properties */
+    margin-top: 40px;
+    margin-left: 24px;
+    width: 67px;
+    height: 22px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 18px/22px Lato;
+    letter-spacing: 0.27px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.bottomText7{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 24px;
+    width: 300px;
+    height: 85px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 14px/17px Lato;
+    letter-spacing: 0.21px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.send7{
+    /* Layout Properties */
+    margin-top: 120px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.next7{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+
+/*End Page 7*/
+
+/*Page 8:*/
+
+.page8{
+    /* Layout Properties */
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 740px;
+    /*background: transparent radial-gradient(closest-side at 50% 50%, #FDFDFD 0%, #FAFAFF 100%) 0% 0% no-repeat padding-box;*/
+    background: transparent radial-gradient(closest-side at 50% 78%, #00007C 0%, #00012E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+/*.window8{*/
+/*    !* Layout Properties *!*/
+/*    top: 0px;*/
+/*    left: 0px;*/
+/*    width: 360px;*/
+/*    height: 508px;*/
+/*    !* UI Properties *!*/
+/*    background: transparent radial-gradient(closest-side at 50% 78%, #00007C 0%, #00012E 100%) 0% 0% no-repeat padding-box;*/
+/*    !*background: transparent radial-gradient(closest-side at 50% 50%, #FDFDFD 0%, #FAFAFF 100%) 0% 0% no-repeat padding-box;*!*/
+/*    opacity: 1;*/
+/*}*/
+
+.main-headline8{
+    /* Layout Properties */
+    margin-top: 100px;
+    margin-left: 53px;
+    width: 240px;
+    height: 62px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 24px/28px Lato;
+    letter-spacing: 0.36px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.headline8{
+    /* Layout Properties */
+    margin-top: 15px;
+    margin-left: 39px;
+    width: 282px;
+    height: 70px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 21px/24px Lato;
+    letter-spacing: 0.32px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.note8{
+    /* Layout Properties */
+    margin-bottom: 30px;
+    margin-left: 49px;
+    width: 262px;
+    height: 73px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 21px/24px Lato;
+    letter-spacing: 0.32px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.first-link8{
+    /* Layout Properties */
+    mrgin-top: 20px;
+    margin-left: 65px;
+    width: 142px;
+    height: 37px;
+    /* UI Properties */
+    text-align: center;
+    text-decoration: underline;
+    font: normal normal bold 14px/20px Lato;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.bottomText8{
+    /* Layout Properties */
+    margin-top: 200px;
+    margin-left: 50px;
+    width: 250px;
+    height: 38px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 16px/19px Lato;
+    letter-spacing: 0.24px;
+    color: #85898B;
+    opacity: 1;
+}
+
+.bottom-link8{
+    /* Layout Properties */
+    margin-top: 30px;
+    margin-left: 122px;
+    width: 116px;
+    height: 19px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 16px/19px Lato;
+    letter-spacing: 0.24px;
+    color: #007FFF;
+    opacity: 1;
+}
+
+
+/*End Page 8*/
+
+/*Page 9:*/
+
+
+
+
+.page9 {
+    /* Layout Properties */
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 740px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 65%, #00007C 0%, #00002E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+
+.main-headline9{
+    /* Layout Properties */
+    margin-top: 80px;
+    margin-left: 55px;
+    width: 260px;
+    height: 29px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 24px/28px Lato;
+    letter-spacing: 0.36px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.second-headline9{
+    /* Layout Properties */
+    margin-top: 50px;
+    margin-left: 43px;
+    width: 274px;
+    height: 73px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 21px/24px Lato;
+    letter-spacing: 0.32px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+
+
+.mainField9{
+    margin-top: 80px;
+    margin-left: 24px;
+    width: 162px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 15px/28px Lato;
+    letter-spacing: 0.23px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.mainMenu9{
+    top: 348px;
+    margin-left: 24px;
+    width: 312px;
+    height: 40px;
+    background: #00003E 0% 0% no-repeat padding-box;
+    border: 1px solid #6A6A6A;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+
+
+
+
+.specificField9{
+    /* Layout Properties */
+    top: 408px;
+    margin-left: 24px;
+    width: 90px;
+    height: 18px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 15px/28px Lato;
+    letter-spacing: 0.23px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+
+.specMenu9{
+    /* Layout Properties */
+    top: 434px;
+    margin-left: 24px;
+    width: 312px;
+    height: 40px;
+    /* UI Properties */
+    background: #00003E 0% 0% no-repeat padding-box;
+    border: 1px solid #6A6A6A;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+
+
+.save9{
+    /* Layout Properties */
+    margin-top: 200px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+
+.next9{
+    /* Layout Properties */
+    margin-top: 10px;
+    margin-left: 90px;
+    width: 180px;
+    height: 45px;
+    /* UI Properties */
+    background: transparent radial-gradient(closest-side at 50% 50%, #FFFFFF 0%, #E6E6FF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 20px #CE00FF74;
+    border: 1px solid #332626;
+    border-radius: 6px;
+    opacity: 1;
+}
+/*End Page 9*/
